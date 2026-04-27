@@ -8,5 +8,6 @@ I am a sophomore student at UIC in Bachelors for Computer Science💻. I am pass
  - C
  - C++
 
-
+📱Contact:
+ - LinkedIn(https://www.linkedin.com/in/emily-librizzi-b35096349/edit/intro)
   
