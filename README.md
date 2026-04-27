@@ -11,7 +11,3 @@ I am a sophomore student at UIC in Bachelors for Computer Science💻. I am pass
 📱Contact:
  - [LinkedIn](https://www.linkedin.com/in/emily-librizzi-b35096349/edit/intro)
  - librizziemily@gmail.com
-
-📰Project:
- -[BSTSet Wordle Help](https://github.com/ELibr112/BSTSet-Wordle-Help)
- -[Cipher decoder/encoder](https://github.com/ELibr112/Cipher-decoder-encoder)
